@@ -10,8 +10,7 @@ A simple Java application for managing tasks with a user-friendly graphical inte
 - [Features](#features)
 - [Demonstrations](#demonstrations)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  
 
 ## Getting Started
 
