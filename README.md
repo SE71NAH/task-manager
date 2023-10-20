@@ -1,4 +1,4 @@
-# task-manager
+
 # Task Manager
 
 A simple Java application for managing tasks with a user-friendly graphical interface.
